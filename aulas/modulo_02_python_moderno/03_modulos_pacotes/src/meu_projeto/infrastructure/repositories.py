@@ -1,7 +1,7 @@
 from typing import Optional, List
 
-from meu_projeto.domain.entities import Cliente
-from meu_projeto.domain.cliente_repository import ClienteRepository
+from ..domain.entities import Cliente
+from ..domain.cliente_repository import ClienteRepository
 
 
 class ClienteRepositoryInMemory(ClienteRepository):

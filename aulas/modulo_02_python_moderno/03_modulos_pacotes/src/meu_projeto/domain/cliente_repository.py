@@ -1,5 +1,5 @@
 from typing import Protocol, Optional
-from meu_projeto.domain.entities import Cliente
+from .entities import Cliente
 
 
 class ClienteRepository(Protocol):
