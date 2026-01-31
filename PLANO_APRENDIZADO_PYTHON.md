@@ -621,7 +621,7 @@ catalogo_api/
 
 ## 📋 Checklist de Progresso (Atualizado)
 
-**Status atual:** Aula 3.4 concluída. Próxima: Aula 4.1 — Introdução ao FastAPI.
+**Status atual:** Aula 4.1 concluída. Próxima: Aula 4.2 — Modelos com Pydantic.
 
 ### Semana 1: Fundamentos ⬜
 - [x] Aula 1.1 — Ambiente
@@ -643,7 +643,7 @@ catalogo_api/
 - [x] Aula 3.4 — pytest
 
 ### Semana 4: Web API ⬜
-- [ ] Aula 4.1 — FastAPI Básico
+- [x] Aula 4.1 — FastAPI Básico
 - [ ] Aula 4.2 — Pydantic
 - [ ] Aula 4.3 — CRUD
 - [ ] Aula 4.4 — Testes de API
