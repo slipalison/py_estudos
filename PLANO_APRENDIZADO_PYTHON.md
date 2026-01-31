@@ -621,7 +621,7 @@ catalogo_api/
 
 ## 📋 Checklist de Progresso (Atualizado)
 
-**Status atual:** Aula 2.3 concluída. Próxima: Aula 2.4 — Gerenciamento de Dependências.
+**Status atual:** Aula 2.4 concluída. Próxima: Aula 3.1 — Classes e Herança.
 
 ### Semana 1: Fundamentos ⬜
 - [x] Aula 1.1 — Ambiente
@@ -634,7 +634,7 @@ catalogo_api/
 - [x] Aula 2.1 — Typing
 - [x] Aula 2.2 — Dataclasses
 - [x] Aula 2.3 — Módulos
-- [ ] Aula 2.4 — Dependências
+- [x] Aula 2.4 — Dependências
 
 ### Semana 3: OOP e Testes ⬜
 - [ ] Aula 3.1 — Classes
