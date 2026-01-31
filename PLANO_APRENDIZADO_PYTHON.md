@@ -621,7 +621,7 @@ catalogo_api/
 
 ## 📋 Checklist de Progresso (Atualizado)
 
-**Status atual:** Aula 3.3 concluída. Próxima: Aula 3.4 — Testes com pytest.
+**Status atual:** Aula 3.4 concluída. Próxima: Aula 4.1 — Introdução ao FastAPI.
 
 ### Semana 1: Fundamentos ⬜
 - [x] Aula 1.1 — Ambiente
@@ -640,7 +640,7 @@ catalogo_api/
 - [x] Aula 3.1 — Classes
 - [x] Aula 3.2 — Protocols
 - [x] Aula 3.3 — Design Patterns
-- [ ] Aula 3.4 — pytest
+- [x] Aula 3.4 — pytest
 
 ### Semana 4: Web API ⬜
 - [ ] Aula 4.1 — FastAPI Básico
