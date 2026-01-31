@@ -621,7 +621,7 @@ catalogo_api/
 
 ## 📋 Checklist de Progresso (Atualizado)
 
-**Status atual:** Aula 3.2 concluída. Próxima: Aula 3.3 — Padrões de Projeto em Python.
+**Status atual:** Aula 3.3 concluída. Próxima: Aula 3.4 — Testes com pytest.
 
 ### Semana 1: Fundamentos ⬜
 - [x] Aula 1.1 — Ambiente
@@ -639,7 +639,7 @@ catalogo_api/
 ### Semana 3: OOP e Testes ⬜
 - [x] Aula 3.1 — Classes
 - [x] Aula 3.2 — Protocols
-- [ ] Aula 3.3 — Design Patterns
+- [x] Aula 3.3 — Design Patterns
 - [ ] Aula 3.4 — pytest
 
 ### Semana 4: Web API ⬜
