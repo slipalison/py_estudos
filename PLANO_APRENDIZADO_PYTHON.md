@@ -621,7 +621,7 @@ catalogo_api/
 
 ## 📋 Checklist de Progresso (Atualizado)
 
-**Status atual:** Aula 2.4 concluída. Próxima: Aula 3.1 — Classes e Herança.
+**Status atual:** Aula 3.2 concluída. Próxima: Aula 3.3 — Padrões de Projeto em Python.
 
 ### Semana 1: Fundamentos ⬜
 - [x] Aula 1.1 — Ambiente
@@ -637,8 +637,8 @@ catalogo_api/
 - [x] Aula 2.4 — Dependências
 
 ### Semana 3: OOP e Testes ⬜
-- [ ] Aula 3.1 — Classes
-- [ ] Aula 3.2 — Protocols
+- [x] Aula 3.1 — Classes
+- [x] Aula 3.2 — Protocols
 - [ ] Aula 3.3 — Design Patterns
 - [ ] Aula 3.4 — pytest
 
